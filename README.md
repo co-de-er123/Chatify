@@ -1,6 +1,6 @@
 # Chatify
 
-OutCook is a real-time messaging application that allows users to send, receive, and manage messages with file attachments, email-like features, and dynamic filtering. The app is built using a modern tech stack and offers a highly interactive and responsive experience.
+Chatify is a real-time messaging application that allows users to send, receive, and manage messages with file attachments, email-like features, and dynamic filtering. The app is built using a modern tech stack and offers a highly interactive and responsive experience.
 
 # Frontend :
 
