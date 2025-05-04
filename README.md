@@ -38,7 +38,7 @@ Chatify is a real-time messaging application that allows users to send, receive,
 
 ## Features
 
-- Send and receive messages with attachments (images, videos, and other files).
+- Send and receive messages with attachments such as images, videos, and other files.
 - Cookie-based authentication (written from scratch).
 - Real-time notifications using WebSockets, Redis, Kafka, and AWS.
 - Message filtering: Filter messages by "read", "unread", and "favorites".
